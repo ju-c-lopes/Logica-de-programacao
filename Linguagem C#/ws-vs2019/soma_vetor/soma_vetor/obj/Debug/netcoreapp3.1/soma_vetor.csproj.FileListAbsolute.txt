@@ -1,0 +1,13 @@
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_vetor\soma_vetor\obj\Debug\netcoreapp3.1\soma_vetor.csprojAssemblyReference.cache
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_vetor\soma_vetor\obj\Debug\netcoreapp3.1\soma_vetor.csproj.CoreCompileInputs.cache
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_vetor\soma_vetor\obj\Debug\netcoreapp3.1\soma_vetor.AssemblyInfoInputs.cache
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_vetor\soma_vetor\obj\Debug\netcoreapp3.1\soma_vetor.AssemblyInfo.cs
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_vetor\soma_vetor\bin\Debug\netcoreapp3.1\soma_vetor.exe
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_vetor\soma_vetor\bin\Debug\netcoreapp3.1\soma_vetor.deps.json
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_vetor\soma_vetor\bin\Debug\netcoreapp3.1\soma_vetor.runtimeconfig.json
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_vetor\soma_vetor\bin\Debug\netcoreapp3.1\soma_vetor.runtimeconfig.dev.json
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_vetor\soma_vetor\bin\Debug\netcoreapp3.1\soma_vetor.dll
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_vetor\soma_vetor\bin\Debug\netcoreapp3.1\soma_vetor.pdb
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_vetor\soma_vetor\obj\Debug\netcoreapp3.1\soma_vetor.dll
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_vetor\soma_vetor\obj\Debug\netcoreapp3.1\soma_vetor.pdb
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_vetor\soma_vetor\obj\Debug\netcoreapp3.1\soma_vetor.genruntimeconfig.cache

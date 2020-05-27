@@ -1,0 +1,13 @@
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\crescente\crescente\bin\Debug\netcoreapp3.1\crescente.exe
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\crescente\crescente\bin\Debug\netcoreapp3.1\crescente.deps.json
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\crescente\crescente\bin\Debug\netcoreapp3.1\crescente.runtimeconfig.json
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\crescente\crescente\bin\Debug\netcoreapp3.1\crescente.runtimeconfig.dev.json
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\crescente\crescente\bin\Debug\netcoreapp3.1\crescente.dll
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\crescente\crescente\bin\Debug\netcoreapp3.1\crescente.pdb
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\crescente\crescente\obj\Debug\netcoreapp3.1\crescente.csprojAssemblyReference.cache
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\crescente\crescente\obj\Debug\netcoreapp3.1\crescente.csproj.CoreCompileInputs.cache
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\crescente\crescente\obj\Debug\netcoreapp3.1\crescente.AssemblyInfoInputs.cache
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\crescente\crescente\obj\Debug\netcoreapp3.1\crescente.AssemblyInfo.cs
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\crescente\crescente\obj\Debug\netcoreapp3.1\crescente.dll
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\crescente\crescente\obj\Debug\netcoreapp3.1\crescente.pdb
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\crescente\crescente\obj\Debug\netcoreapp3.1\crescente.genruntimeconfig.cache

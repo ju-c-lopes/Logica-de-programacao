@@ -1,0 +1,13 @@
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\diagonal_negativos\diagonal_negativos\bin\Debug\netcoreapp3.1\diagonal_negativos.exe
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\diagonal_negativos\diagonal_negativos\bin\Debug\netcoreapp3.1\diagonal_negativos.deps.json
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\diagonal_negativos\diagonal_negativos\bin\Debug\netcoreapp3.1\diagonal_negativos.runtimeconfig.json
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\diagonal_negativos\diagonal_negativos\bin\Debug\netcoreapp3.1\diagonal_negativos.runtimeconfig.dev.json
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\diagonal_negativos\diagonal_negativos\bin\Debug\netcoreapp3.1\diagonal_negativos.dll
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\diagonal_negativos\diagonal_negativos\bin\Debug\netcoreapp3.1\diagonal_negativos.pdb
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\diagonal_negativos\diagonal_negativos\obj\Debug\netcoreapp3.1\diagonal_negativos.csprojAssemblyReference.cache
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\diagonal_negativos\diagonal_negativos\obj\Debug\netcoreapp3.1\diagonal_negativos.csproj.CoreCompileInputs.cache
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\diagonal_negativos\diagonal_negativos\obj\Debug\netcoreapp3.1\diagonal_negativos.AssemblyInfoInputs.cache
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\diagonal_negativos\diagonal_negativos\obj\Debug\netcoreapp3.1\diagonal_negativos.AssemblyInfo.cs
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\diagonal_negativos\diagonal_negativos\obj\Debug\netcoreapp3.1\diagonal_negativos.dll
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\diagonal_negativos\diagonal_negativos\obj\Debug\netcoreapp3.1\diagonal_negativos.pdb
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\diagonal_negativos\diagonal_negativos\obj\Debug\netcoreapp3.1\diagonal_negativos.genruntimeconfig.cache

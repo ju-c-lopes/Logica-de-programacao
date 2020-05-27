@@ -1,0 +1,13 @@
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_impares\soma_impares\bin\Debug\netcoreapp3.1\soma_impares.exe
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_impares\soma_impares\bin\Debug\netcoreapp3.1\soma_impares.deps.json
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_impares\soma_impares\bin\Debug\netcoreapp3.1\soma_impares.runtimeconfig.json
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_impares\soma_impares\bin\Debug\netcoreapp3.1\soma_impares.runtimeconfig.dev.json
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_impares\soma_impares\bin\Debug\netcoreapp3.1\soma_impares.dll
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_impares\soma_impares\bin\Debug\netcoreapp3.1\soma_impares.pdb
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_impares\soma_impares\obj\Debug\netcoreapp3.1\soma_impares.csprojAssemblyReference.cache
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_impares\soma_impares\obj\Debug\netcoreapp3.1\soma_impares.csproj.CoreCompileInputs.cache
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_impares\soma_impares\obj\Debug\netcoreapp3.1\soma_impares.AssemblyInfoInputs.cache
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_impares\soma_impares\obj\Debug\netcoreapp3.1\soma_impares.AssemblyInfo.cs
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_impares\soma_impares\obj\Debug\netcoreapp3.1\soma_impares.dll
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_impares\soma_impares\obj\Debug\netcoreapp3.1\soma_impares.pdb
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\soma_impares\soma_impares\obj\Debug\netcoreapp3.1\soma_impares.genruntimeconfig.cache

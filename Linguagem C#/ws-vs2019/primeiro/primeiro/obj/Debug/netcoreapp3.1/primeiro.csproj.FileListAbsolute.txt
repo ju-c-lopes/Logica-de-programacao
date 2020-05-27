@@ -1,0 +1,13 @@
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\primeiro\primeiro\bin\Debug\netcoreapp3.1\primeiro.exe
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\primeiro\primeiro\bin\Debug\netcoreapp3.1\primeiro.deps.json
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\primeiro\primeiro\bin\Debug\netcoreapp3.1\primeiro.runtimeconfig.json
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\primeiro\primeiro\bin\Debug\netcoreapp3.1\primeiro.runtimeconfig.dev.json
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\primeiro\primeiro\bin\Debug\netcoreapp3.1\primeiro.dll
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\primeiro\primeiro\bin\Debug\netcoreapp3.1\primeiro.pdb
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.csprojAssemblyReference.cache
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.csproj.CoreCompileInputs.cache
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.AssemblyInfoInputs.cache
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.AssemblyInfo.cs
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.dll
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.pdb
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\primeiro\primeiro\obj\Debug\netcoreapp3.1\primeiro.genruntimeconfig.cache

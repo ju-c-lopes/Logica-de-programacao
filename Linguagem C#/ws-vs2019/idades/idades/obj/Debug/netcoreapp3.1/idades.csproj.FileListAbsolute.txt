@@ -1,0 +1,12 @@
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\idades\idades\bin\Debug\netcoreapp3.1\idades.exe
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\idades\idades\bin\Debug\netcoreapp3.1\idades.deps.json
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\idades\idades\bin\Debug\netcoreapp3.1\idades.runtimeconfig.json
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\idades\idades\bin\Debug\netcoreapp3.1\idades.runtimeconfig.dev.json
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\idades\idades\bin\Debug\netcoreapp3.1\idades.dll
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\idades\idades\bin\Debug\netcoreapp3.1\idades.pdb
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\idades\idades\obj\Debug\netcoreapp3.1\idades.csproj.CoreCompileInputs.cache
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\idades\idades\obj\Debug\netcoreapp3.1\idades.AssemblyInfoInputs.cache
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\idades\idades\obj\Debug\netcoreapp3.1\idades.AssemblyInfo.cs
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\idades\idades\obj\Debug\netcoreapp3.1\idades.dll
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\idades\idades\obj\Debug\netcoreapp3.1\idades.pdb
+D:\ju\Cursos Udemy\Lógica\Linguagem C#\Exercicios\ws-vs2019\idades\idades\obj\Debug\netcoreapp3.1\idades.genruntimeconfig.cache
